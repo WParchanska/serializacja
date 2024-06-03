@@ -1,1 +1,1 @@
-# serializacja
+# serializacja XML i JSON
